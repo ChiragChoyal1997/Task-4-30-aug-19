@@ -16,7 +16,7 @@ public class PracticeCollection {
         while(optionno != 8){
         System.out.println("-----------------------------");
         System.out.println("Welcome To Dashboard");
-        System.err.println("1. Add Employee");
+        System.out.println("1. Add Employee");
         System.out.println("2. View All Employee");
         System.out.println("3. Remove Employee");
         System.out.println("4. Clear Data");
